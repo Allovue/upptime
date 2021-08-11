@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Allovue Login URL
-    url: $LOGIN_CHECK_URL
+    url: https://loginredirect.allovue.com/login_redirect
     headers:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
     body: $LOGIN_CHECK_VALID_POST_DATA
