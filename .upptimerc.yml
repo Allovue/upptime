@@ -8,11 +8,16 @@ sites:
     url: https://loginredirect.allovue.com/login_redirect
     headers:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
-    body: '$LOGIN_CHECK_VALID_POST_DATA'
+    body: '$LOGIN_CHECK_VALID_POST_DATA' #formatted as email=name@domain.com
 
 status-website:
   baseUrl: /upptime
   name: Allovue Login Redirect Status
+  
+assignees:
+  - jakemauer
 
+workflowSchedule:
+  uptime: "*/15 * * * *"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
