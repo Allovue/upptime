@@ -8,7 +8,7 @@ sites:
     url: https://loginredirect.allovue.com/login_redirect
     headers:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
-    body: $LOGIN_CHECK_VALID_POST_DATA
+    body: '$LOGIN_CHECK_VALID_POST_DATA'
 
 status-website:
   baseUrl: /upptime
