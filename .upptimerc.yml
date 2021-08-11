@@ -8,6 +8,7 @@ sites:
     headers:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
     body: $LOGIN_CHECK_VALID_POST_DATA
+    method: POST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
