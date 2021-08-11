@@ -9,13 +9,12 @@ sites:
     headers:
       - "Content-Type: application/x-www-form-urlencoded; charset=UTF-8"
     body: '$LOGIN_CHECK_VALID_POST_DATA' #formatted as email=name@domain.com
+    assignees: 
+      - jakemauer
 
 status-website:
   baseUrl: /upptime
   name: Allovue Login Redirect Status
-  
-assignees:
-  - jakemauer
 
 workflowSchedule:
   uptime: "*/15 * * * *"
