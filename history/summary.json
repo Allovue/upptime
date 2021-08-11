@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/loginredirect.allovue.com",
     "slug": "allovue-login-url",
     "status": "down",
-    "uptime": "24.35%",
-    "uptimeDay": "24.35%",
-    "uptimeWeek": "24.35%",
-    "uptimeMonth": "24.35%",
-    "uptimeYear": "24.35%",
-    "time": 181,
-    "timeDay": 181,
-    "timeWeek": 181,
-    "timeMonth": 181,
-    "timeYear": 181,
+    "uptime": "22.02%",
+    "uptimeDay": "22.02%",
+    "uptimeWeek": "22.02%",
+    "uptimeMonth": "22.02%",
+    "uptimeYear": "22.02%",
+    "time": 175,
+    "timeDay": 175,
+    "timeWeek": 175,
+    "timeMonth": 175,
+    "timeYear": 175,
     "dailyMinutesDown": {
-      "2021-08-11": 32
+      "2021-08-11": 37
     }
   }
 ]
