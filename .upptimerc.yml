@@ -11,6 +11,21 @@ sites:
     body: '$LOGIN_CHECK_VALID_POST_DATA' #formatted as email=name@domain.com
     assignees: 
       - jakemauer
+  - name: Manage Classic
+    method: GET
+    url: https://demo.allovue.com
+    assignees: 
+      - jakemauer
+  - name: New Manage
+    method: GET
+    url: https://allovue.app
+    assignees: 
+      - jakemauer
+  - name: Allocate
+    method: GET
+    url: https://allocate.allovue.com
+    assignees: 
+      - jakemauer
 
 status-website:
   baseUrl: /upptime
