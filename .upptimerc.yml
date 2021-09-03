@@ -18,12 +18,12 @@ sites:
       - jakemauer
   - name: New Manage
     method: GET
-    url: https://allovue.app
+    url: https://allovue.app/healthcheck
     assignees: 
       - jakemauer
   - name: Allocate
     method: GET
-    url: https://allocate.allovue.com
+    url: https://allocate.allovue.com/healthcheck
     assignees: 
       - jakemauer
 
