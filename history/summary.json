@@ -44,19 +44,20 @@
     "url": "https://allovue.app/healthcheck",
     "icon": "https://favicons.githubusercontent.com/allovue.app",
     "slug": "new-manage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 347,
-    "timeDay": 377,
-    "timeWeek": 319,
+    "timeDay": 368,
+    "timeWeek": 324,
     "timeMonth": 347,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2021-09-29": 0
+      "2021-09-30": 3,
+      "2021-09-29": 39
     }
   },
   {
