@@ -70,19 +70,19 @@
     "url": "https://allocate.allovue.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/allocate.allovue.com",
     "slug": "allocate",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 628,
-    "timeWeek": 349,
-    "timeMonth": 343,
-    "timeYear": 327,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 350,
+    "timeDay": 979,
+    "timeWeek": 497,
+    "timeMonth": 385,
+    "timeYear": 350,
     "dailyMinutesDown": {
-      "2021-10-28": 0
+      "2021-10-28": 14
     }
   }
 ]
