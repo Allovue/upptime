@@ -28,19 +28,19 @@
     "url": "https://demo.allovue.com",
     "icon": "https://favicons.githubusercontent.com/demo.allovue.com",
     "slug": "manage-classic",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 188,
-    "timeDay": 123,
-    "timeWeek": 190,
-    "timeMonth": 179,
-    "timeYear": 188,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 187,
+    "timeDay": 92,
+    "timeWeek": 174,
+    "timeMonth": 175,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2022-01-13": 0
+      "2022-01-13": 12
     }
   },
   {
