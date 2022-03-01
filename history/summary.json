@@ -30,7 +30,7 @@
     "url": "https://demo.allovue.com",
     "icon": "https://favicons.githubusercontent.com/demo.allovue.com",
     "slug": "manage-classic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -41,7 +41,9 @@
     "timeWeek": 129,
     "timeMonth": 172,
     "timeYear": 188,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "New Manage",
