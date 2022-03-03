@@ -30,11 +30,11 @@
     "url": "https://demo.allovue.com",
     "icon": "https://favicons.githubusercontent.com/demo.allovue.com",
     "slug": "manage-classic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "98.62%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.96%",
     "time": 323,
     "timeDay": 5312,
@@ -42,6 +42,7 @@
     "timeMonth": 922,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2022-03-03": 1,
       "2022-03-02": 19,
       "2022-03-01": 92
     }
