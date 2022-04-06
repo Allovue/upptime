@@ -74,17 +74,19 @@
     "url": "https://allocate.allovue.com/healthcheck",
     "icon": "https://favicons.githubusercontent.com/allocate.allovue.com",
     "slug": "allocate",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 257,
-    "timeWeek": 237,
-    "timeMonth": 247,
+    "timeDay": 258,
+    "timeWeek": 240,
+    "timeMonth": 248,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   }
 ]
