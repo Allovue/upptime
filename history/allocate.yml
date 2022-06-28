@@ -1,7 +1,7 @@
 url: https://allocate.allovue.com/healthcheck
-status: up
-code: 200
-responseTime: 404
-lastUpdated: 2022-06-27T23:04:26.237Z
+status: down
+code: 502
+responseTime: 906
+lastUpdated: 2022-06-28T11:46:09.369Z
 startTime: Fri Sep 03 2021 20:32:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
